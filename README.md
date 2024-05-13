@@ -57,7 +57,7 @@
 
 ## Tentang Past Portfolio
 
-[![Product Name Screen Shot][product-screenshot]](https://tech-innovate-accenggg.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://accenggg-portfolio.vercel.app/)
 
 Past Portfolio merupakan template website portfolio yang digunakan untuk melakukan self promotion.
 
@@ -134,7 +134,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/michael-arselius-pamasi-240aa1278/
-[product-screenshot]: images/preview-techinnovate.png
+[product-screenshot]: images/ss.png
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
